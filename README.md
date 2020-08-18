@@ -1,4 +1,4 @@
-Privacy Policy
+#Privacy Policy
 
 Van Tien Tu built the Chiti app as a Free app. This SERVICE is provided by Van Tien Tu at no cost and is intended for use as is.
 
